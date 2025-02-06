@@ -1,2 +1,2 @@
 # simple_blockchain
-simple blockchain enhanced with transactions, PoS, slashing mechanism
+Simple Blockchain enhanced with transactions, PoS, slashing mechanism
